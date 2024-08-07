@@ -1,0 +1,22 @@
+@font-face {
+  	font-family: "title_font1";
+  	src: url("../font/CRAYA___.TTF") format("truetype");
+  	font-weight: normal;
+  	font-style: normal;
+}
+@font-face {
+  	font-family: "title_font2";
+  	src: url("../font/crayon_1-1.ttf") format("truetype");
+  	font-weight: normal;
+  	font-style: normal;
+}
+@font-face {
+  	font-family: "title_font3";
+  	src: url("../font/chihayaCrayonRE-free.ttf") format("truetype");
+  	font-weight: normal;
+  	font-style: normal;
+}
+.title {
+	font-family: "title_font1","title_font2", sans-serif;
+}
+
